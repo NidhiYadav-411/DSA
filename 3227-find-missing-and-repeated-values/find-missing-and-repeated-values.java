@@ -31,6 +31,6 @@ class Solution {
     public static void main(String[] args) {
         int[][] grid = {{1, 2}, {2, 4}};
         int[] ans = findMissingAndRepeatedValues(grid);
-        System.out.println(Arrays.toString(ans));
+        System.out.println(Arrays.toString(ans));//n Java, an array is an object, not a printable value.This converts the array into a readable String:
     }
 }
