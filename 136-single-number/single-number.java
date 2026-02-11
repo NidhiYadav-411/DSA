@@ -1,3 +1,4 @@
+/* brute force approach
 class Solution {
     public static int singleNumber(int[] nums) {
         int n=nums.length ;
@@ -55,5 +56,15 @@ class Solution {
 
 
 
+    }
+}*/
+//optimized Approach
+class Solution {
+    public int singleNumber(int[] nums) {
+        int ans =0;
+        for (int val=0;val<nums.length;val++){
+            ans=ans^nums[val];
+        }
+        return ans;
     }
 }
