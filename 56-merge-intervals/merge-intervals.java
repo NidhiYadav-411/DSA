@@ -17,6 +17,9 @@ class Solution {
         else if (lastinterval[1]<intervals[i][0]) {
             result.add(intervals[i]);
         }
+        else if (lastinterval[1]>intervals[i][1]){
+            lastinterval[1]=lastinterval[1];
+        }
        }
        return result.toArray(new int [result.size()][]);
         
