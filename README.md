@@ -2,35 +2,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NidhiYadav-411/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NidhiYadav-411/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NidhiYadav-411/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NidhiYadav-411/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NidhiYadav-411/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NidhiYadav-411/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NidhiYadav-411/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NidhiYadav-411/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NidhiYadav-411/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Lifting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NidhiYadav-411/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Lowest Common Ancestor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NidhiYadav-411/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/NidhiYadav-411/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
